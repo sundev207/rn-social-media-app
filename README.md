@@ -1,6 +1,6 @@
 ## React Native Social Media App
 
-A cross platform (iOS and Android) React Native news app. This example was put together for [React Native by Example](https://learn.handlebarlabs.com/p/react-native-by-example). Get started learning & mastering React Native for free!
+A cross platform (iOS and Android) React Native news app. 
 
 ![Reference Designs](./assets/reference.png)
 
@@ -28,5 +28,3 @@ A cross platform (iOS and Android) React Native news app. This example was put t
 ---
 
 
-
-> If you're interested in learning more about React Native be sure to visit [React Native School](https://www.reactnativeschool.com/) for dozens of React Native tutorials!
